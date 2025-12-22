@@ -11,14 +11,17 @@ A festive one-shot or short campaign where players must pull off a daring heist 
 **Players:** 3-6 players (6 pre-gens provided)  
 **Theme:** Heist, Holiday, Comedy/Drama, Redemption
 
+**Note:** In this campaign, Santa Claus is portrayed as female (she/her pronouns), married to Mrs. Claus.
+
 ### Synopsis
 
 It's Christmas Eve, 8:00 PM. The annual celebration is in full swing at Santa's Workshop when the impossible happens: **Ebenezer Scrooge** and his Naughty List Syndicate crash the party and take everyone hostage!
 
-Six workshop employees who weren't at the celebration must use makeshift weapons, creative tactics, and environmental combat to stop Scrooge's three-pronged plan:
+Six workshop employees who weren't at the celebration must use makeshift weapons, creative tactics, and environmental combat to stop Scrooge's multi-pronged plan:
 1. ✅ Steal The Naughty & Nice List (already done!)
 2. ⚠️ Rob the Legendary Toy Vault
-3. ⚠️ Sabotage the Clock Tower to prevent midnight launch
+3. ⚠️ Plant a bomb in the Sleigh Hangar
+4. ⚠️ Sabotage the Clock Tower to prevent midnight launch
 
 You have **4 hours until midnight**. The clock is ticking. Christmas is counting on you.
 
@@ -54,30 +57,39 @@ This campaign package contains everything you need to run the adventure:
 ⚙️ **Environmental Combat** - Crushers, gears, catapults, and Christmas chaos  
 💔 **Moral Choice** - Scrooge can be defeated OR redeemed  
 ⏰ **Time Pressure** - 4-hour countdown with radio taunts every 30 minutes  
-🎭 **Memorable NPCs** - Talking reindeer with personalities, Mrs. Claus as ally, and tragic villain
+🎭 **Memorable NPCs** - Talking reindeer with personalities, Mrs. Claus as ally, and tragic villain  
+🎲 **Player-Driven** - Designed as a flexible toolkit, not a rigid script
+
+## A Note for DMs
+
+**Your players will do unexpected things. That's not a failure of prep — it's the point.**
+
+This adventure is designed as a **toolkit, not a script**. Rooms, encounters, and paths are intentionally loose so you can adapt on the fly. Players from playtests have:
+- Stormed the Grand Hall immediately, or went outside which I hadn't planned for initially
+- Crawled through pipes that were barely sketched out
+- Optimized routes like a speedrun OR meandered for character moments
+
+**All valid. All fun.**
+
+The map connections are suggestions. Time pressure is your balancing tool. If a player choice is clever, cinematic, or fun — **make it work**. Collapse or expand paths based on pacing. The ambiguity is intentional, giving you freedom to shape the session to your table.
 
 ## Quick Start Guide
 
 ### For DMs (First Time Running)
 
-1. **Review the [DM Guide](dm-materials/dm-guide.md)** (20-30 min) - Focus on opening scene, key villain encounters, and 3-hour session path
-2. **Skim [Enemy Reference](dm-materials/enemies.md)** (10 min) - Familiarize yourself with Scrooge and key lieutenants
-3. **Review [Combat Maps](dm-materials/combat-maps.md)** (15 min) - At minimum: Loading Dock, Vault OR Sleigh Hangar, Clock Tower
+1. **Review the [DM Guide](dm-materials/dm-guide.md)** Focus on opening scene, key villain encounters, and 3-hour session path
+2. **Skim [Enemy Reference](dm-materials/enemies.md)** Familiarize yourself with Scrooge and key lieutenants
+3. **Review [Combat Maps](dm-materials/combat-maps.md)** At minimum: Loading Dock, and Clock Tower. If there is time then go to Vault OR Sleigh Hangar. I had one game where they ended up in the Grand Hall and I collaposed the Clock Tower scene there.
 4. **Send [Character Sheets](characters/characters.md) to Players** - Let them pick a pre-gen, modify one to their liking, or create their own level 5 character
 5. **Print/Prep Materials** - Character sheets, workshop map, reference sheets
 6. **Prepare Atmosphere** - Christmas music playlist, timer visible to players
 
-**Total Prep Time:** ~1-3 hours for first-time DMs
-
 ### For Players
 
-1. **Review the [Workshop Walkthrough](assets/pdfs/North-Pole-Heist-Slides.pdf)** - Visual tour of Santa's Workshop (optional, 5 min)
-2. **Choose a [Pre-generated Character](characters/characters.md)**, modify one to fit your playstyle, or create your own level 5 character
+1. **Choose a [Pre-generated Character](characters/characters.md)**, modify one to fit your playstyle, or create your own level 5 character from scratch
 3. **Read your character's personality and "Why Not At Party"** section
 4. **Understand your role** - Tank, damage, support, skills
 5. **Be ready to improvise!** - Things are not always as they seem at the start
-
-**Ready to play in:** 15-20 minutes
 
 ## Campaign Structure
 

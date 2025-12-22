@@ -16,6 +16,35 @@ This is a fast, cinematic Christmas heist adventure designed for 3-4 hours of pl
 - **No Long Rests**: Mrs. Claus's cookies provide short rest + spell slot recovery
 - **Specialist Knowledge**: Grant advantage when players are in their character's area of expertise
 
+### Your Players Will Surprise You (And That's The Point)
+
+**Your players will do unexpected things. That's not a failure of prep — it's the point of the adventure.**
+
+Use this module as a **toolkit, not a script**. Rooms, encounters, and paths are intentionally loose so you can adapt on the fly.
+
+**Examples from actual play:**
+- One group went straight into the Grand Hall immediately, then exited outside — skipping several early beats
+- Another group crawled into the pipes and maintenance tunnels, which were only lightly planned
+- Some parties aggressively optimize routes; others chase vibes and character moments
+
+**This is all valid.**
+
+#### How to Handle It
+
+**Treat the map connections as suggestions, not fixed hallways.** If players say "we should be able to get from the Loading Dock to Mrs. Claus's Kitchen," you can say yes if it keeps pacing tight.
+
+**Use time pressure as your balancing tool.** Faster routes cost time elsewhere.
+
+**Collapse or expand paths based on session length:**
+- Short on time? Let them move directly between key locations
+- Ahead of schedule? Add friction, encounters, or complications
+
+The map is not perfectly clear how you get between rooms which gives you discretion to shape flow, tension, and timing to fit your table.
+
+**Rule of thumb:** If a choice is clever, cinematic, or fun — make it work.
+
+---
+
 ## Opening Scene
 
 **Location:** Various workshop locations converging to Service Corridor outside the Grand Hall  
@@ -131,57 +160,6 @@ All characters work at the workshop and know the layout well, with expertise in 
 - **Peppermint**: Twisted peppermint staff (arcane focus), fancy spellbook, component pouch
 - **Cinnamon**: Carved wooden staff, druidic focus pendant, herbalism kit
 
-### OPTIONAL: The Coat Check Heist
-
-**Important:** Don't let players recover this gear easily! The makeshift weapons are half the fun. However, if players are really determined and want to attempt a risky heist, you can allow it as a high-stakes side mission.
-
-#### THE SETUP:
-Coat Check is adjacent to Grand Hall (east entrance), currently guarded by:
-- **Frostbite** (AC 14, HP 30) - Alert but focused on the hostages
-- **2 Gremlins** (AC 12, HP 7 each) - Distracted, playing with confiscated items
-
-#### THE HEIST (3-Round Stealth Puzzle):
-
-**Round 1 - Approach (DC 15 Stealth):**
-- Success: Reach coat check door undetected
-- Failure: Frostbite's ears twitch, he's suspicious (+2 DC to next check)
-- Critical Failure: Spotted immediately, combat begins
-
-**Round 2 - Distraction (Group Check DC 13):**
-Players must create a distraction to draw attention away. Options:
-- Throw shiny ornament for gremlins (auto-success if they have one)
-- Make noise elsewhere (Deception/Performance)
-- Use magic creatively (DM discretion)
-
-Success: Frostbite investigates, players have window
-Failure: Frostbite stays put, must try different approach or risk combat
-
-**Round 3 - The Grab (DC 14 Sleight of Hand or Stealth):**
-- Success: Each player grabs ONE signature item (not full loadout!)
-- Partial Success (10-13): Grab items but make noise, must flee immediately
-- Failure: Frostbite roars and attacks, full combat
-
-#### CONSEQUENCES:
-- **Success**: Players each recover ONE signature item (weapon, focus, or tool - their choice)
-- **Detected**: Frostbite + 2 gremlins pursue, raising alarm (attracts 1d4 more gingerbread guards in 2 rounds)
-- **Combat**: If forced to fight Frostbite here, he can call for backup (hostages in danger!)
-
-#### DM NOTES:
-- Make this feel risky and tense, not easy
-- Even on success, they get ONE item each, not everything
-- The makeshift weapons should still be valuable and fun
-- Consider this a "reward for boldness" rather than intended path
-- If they trigger combat, hostages may be threatened as leverage
-- Timing matters: attempting this late (after 10 PM) is easier as Frostbite is less focused
-
-#### Example Signature Items Recovered:
-- Ginger gets "Frostbrand" longsword back
-- Holly gets her thieves' tools
-- Peppermint gets peppermint staff (arcane focus)
-- Jolly gets full tinker's tools kit
-- Northy gets longbow + arrows
-- Cinnamon gets druidic focus pendant
-
 ### Christmas Spirit Rule
 The North Pole's magic is so potent that spellcasters can ignore material components without a gold cost. The very air hums with Christmas energy.
 
@@ -245,10 +223,7 @@ Throughout the workshop, the echoes of the Ghosts of Christmas Past, Present, an
 
 **Manifestation:** Soft golden light, children's laughter echoing faintly, smell of old parchment and candlewax
 
-**Where It Appears:**
-- **Coal Processing Plant**: When players find Scrooge's letters and diary, a warm golden glow illuminates Tiny Tim's Christmas card. A child's voice whispers: "He was kind once... he can be again..."
-- **Santa's Office**: A ghostly image flickers in the fireplace showing young Scrooge smiling at a Christmas party, before fading
-- **When Players Struggle**: Faint voice: "Remember why you fight... for joy, for kindness, for each other..."
+**Where It Appears:** Coal Processing Plant, Santa's Office, and when players struggle with difficult choices. See individual room descriptions in [Combat Maps](combat-maps.md) for specific atmospheric moments.
 
 **Mechanical Benefit:** Once per adventure, when a player attempts to redeem or show mercy to an enemy, they can invoke the Ghost of Christmas Past for advantage on the Persuasion check. The ghost whispers encouragement: "Redemption is always possible..."
 
@@ -256,10 +231,7 @@ Throughout the workshop, the echoes of the Ghosts of Christmas Past, Present, an
 
 **Manifestation:** Evergreen scent, sound of sleigh bells, warm firelight glow, cornucopia of festive abundance
 
-**Where It Appears:**
-- **Mrs. Claus's Kitchen**: When players enter, the oven fire burns extra bright and Mrs. Claus mysteriously has MORE cookies than she thought: "How strange... it's as if someone blessed my baking..."
-- **Gift Wrapping Station**: A wrapped present appears that wasn't there before - contains useful improvised equipment (DM's choice)
-- **During Combat**: Faint sleigh bells jingle, granting one ally +1d4 to their next attack roll (once per combat encounter)
+**Where It Appears:** Mrs. Claus's Kitchen, Gift Wrapping Station, and during combat encounters. See individual room descriptions in [Combat Maps](combat-maps.md) for specific atmospheric moments. During any combat, faint sleigh bells may jingle, granting one ally +1d4 to their next attack roll (once per combat encounter, DM discretion).
 
 **Mechanical Benefit:** Once per adventure, a player can call upon the Ghost of Christmas Present. Roll 1d6:
 1. Heal 2d8 HP
@@ -275,11 +247,7 @@ A jolly laugh echoes through the workshop and abundance appears where there was 
 
 **Manifestation:** Cold wind, distant clock chimes, shadows lengthening, sense of urgency and foreboding
 
-**Where It Appears:**
-- **Clock Tower**: A cloaked shadow appears briefly on the upper platform, pointing at the gears - warning of the danger
-- **Sleigh Hangar**: When approaching the bomb, icy wind blows and players glimpse a vision of the sleigh exploding in flames (warning)
-- **Before Scrooge Fight**: Shadow figure gestures toward Scrooge, then touches its own chest where a heart would be - "He can still be saved..."
-- **When Time is Running Out**: Clock chimes echo louder, wind picks up: "Hurry... the future is not yet written..."
+**Where It Appears:** Clock Tower, Sleigh Hangar, before the Scrooge fight, and when time is running out. See individual room descriptions in [Combat Maps](combat-maps.md) for specific atmospheric moments.
 
 **Mechanical Benefit:** Once per adventure, when disaster is about to strike (bomb about to explode, ally about to die, crucial failure), the Ghost warns them:
 - A player gets a vision of the terrible outcome 6 seconds before it happens
@@ -296,25 +264,17 @@ A jolly laugh echoes through the workshop and abundance appears where there was 
 - Present appears during moments of fellowship, sharing, or celebration
 - Future appears as warnings during danger or when time pressure mounts
 
-**At the Final Confrontation:** If players use the Spirit of Christmas Past's Mirror (from Coal Processing) on Scrooge, all three spirits briefly appear:
-- **Past**: Shows young Scrooge's happiest Christmas
-- **Present**: Shows the joy Scrooge is trying to destroy
-- **Future**: Shows two paths - one where he dies bitter and alone, another where he's redeemed and welcomed
-
-This triple vision grants advantage on Persuasion to redeem Scrooge and reduces DC from 18 to 15.
-
-**Scrooge's Reaction to Spirit Manifestations:** If he senses them: *"YOU! You haunted me before! I won't listen again! Your visions were LIES! People don't change! Nothing LASTS!"* (He's deeply afraid of them - they represent his greatest failure to stay redeemed)
-
-**DM Note:** Use these sparingly - 2-3 times total across the adventure. They should feel like magical Christmas moments, not constant deus ex machina.
+**DM Note:** Use these sparingly - 2-3 times total across the adventure. They should feel like magical Christmas moments, not constant deus ex machina. See [Enemy Reference](enemies.md) for details on using the Spirit's Mirror against Scrooge in the final confrontation.
 
 ## Key Villain Encounters
 
 ### SCROOGE'S PLAN & MOVEMENT
 
-**Scrooge's Three-Pronged Plan to Cancel Christmas:**
+**Scrooge's Multi-Pronged Plan to Cancel Christmas:**
 1. ✅ **Steal The Naughty & Nice List** (done at 8:00 PM from the Grand Hall party) - Without it, wrong gifts go to wrong children, chaos ensues
 2. ⚠️ **Rob the Legendary Toy Vault** (his crew working on it) - Steal powerful magical items
-3. ⚠️ **Sabotage the Midnight Launch** (his personal priority) - Destroy the Clock Tower mechanism
+3. ⚠️ **Plant a Bomb in the Sleigh Hangar** (Charlie working on it) - Destroy the sleigh itself
+4. ⚠️ **Sabotage the Midnight Launch** (his personal priority) - Destroy the Clock Tower mechanism
 
 **Why the Clock Tower?**
 - It's the HEART of Christmas operations - without the countdown, there's no synchronized midnight launch
@@ -357,7 +317,7 @@ This triple vision grants advantage on Persuasion to redeem Scrooge and reduces 
 
 **After Sleigh Bomb Disarmed:** *"IMPOSSIBLE! Charlie, you incompetent CRUMB! I should have known better than to trust a burnt gingerbread man with explosives! No matter... the clock still ticks..."*
 
-**After Reindeer Recruited:** *"No... not the ungulates! You've turned my own flying draft animals against me?! BAH! Animals are more loyal than people - that's the only lesson here!"*
+**After Reindeer Recruited:** *"Oh, how touching! The noble beasts come to save the day! Even animals believe in your sentimental NONSENSE! Well, let's see how loyal they are when Christmas FAILS!"*
 
 **After Defeating a Lieutenant (Frostbite, Gingersnap, Slush):** *"So you've bested [villain name]. Congratulations. You've proven you can beat ONE broken soul. But can you stop ALL of us? Can you stop ME?"*
 
@@ -369,84 +329,32 @@ This triple vision grants advantage on Persuasion to redeem Scrooge and reduces 
 
 ### EBENEZER SCROOGE (Big Bad - The Spirit of Greed)
 
-**Location:** Grand Hall with hostages (8:00-9:00 PM) OR moves to Clock Tower at 10:00 PM for final stand
+**See [Enemy Reference](enemies.md) for complete Scrooge stats, tactics, and defeat options.**
 
-**Appearance:** Gaunt man in tattered Victorian coat, heavy spectral chains wrapped around torso, clutches gnarled money-counting staff. The Naughty & Nice List hangs from his belt. Eyes burning with bitter resentment.
+**Quick Reference:**
+- **AC:** 16 | **HP:** 75 | **Speed:** 30 ft + teleport
+- **Legendary Actions & Resistance**
+- **Location:** Grand Hall (8-9 PM) → Clock Tower (10 PM-Midnight)
+- **Special:** Wears The Naughty & Nice List on his belt
+- **Defeat Options:** Combat, Redemption (DC 18), Environmental Traps, Reindeer Tackle, or Steal The List
 
-#### STATS:
-- **AC** 16 (spectral chains act as armor)
-- **HP** 75
-- **Speed:** 30 ft, can teleport 30 ft in coal dust cloud (bonus action, recharge 5-6)
-- **Multiattack:** 2 attacks with staff
-- **Money-Counting Staff:** +6 to hit, 2d6+4 bludgeoning + 1d6 cold (greed chills the heart)
-- **Damage Dampening Chains (Reaction, 2/round):** When hit by an attack, ghostly chains wrap around Scrooge and reduce damage by 10. *"My chains protect me from your futile efforts!"*
-
-#### SPELLCASTING (uses greed/cold magic):
-- **Command** (at will): "KNEEL!" "FREEZE!" "FLEE!"
-- **Hold Person** (3/day): Chains of spectral gold bind target
-- **Darkness** (2/day): Snuffs out hope and light
-- **Shatter** (2/day): Shatters joy and objects alike
-- **Counterspell** (1/day): "Bah! Humbug to your magic!"
-
-#### LEGENDARY ACTIONS (2 points per round, used after other creatures' turns):
-- **Move (1 point):** Teleports 30 ft in coal dust cloud (can't be opportunity attacked)
-- **Bitter Monologue (1 point):** One creature within 30 ft must make DC 15 Wis save or be frightened until end of their next turn
-- **Cast Spell (2 points):** Casts Command or throws a coal bomb (3d6 fire, 10 ft radius, DC 14 Dex save)
-
-**Legendary Resistance (1/day):** Can choose to succeed on a failed save. *"I didn't survive poverty and ghosts to fall to YOUR tricks!"*
-
-#### ENVIRONMENTAL ACTIONS (Clock Tower Only):
-- **Ring the Bell (Recharge 4-6):** Action. Deafens everyone except Scrooge in the tower for 1 round (DC 13 Con save negates). Creates dramatic reverberating chaos.
-- **Shove Into Gears:** +6 Athletics contested check vs target within 5 ft. On success: target takes 2d6 bludgeoning and is restrained between gears (DC 15 Str to escape).
-
-#### QUICK TACTICS:
-- Opens with Hold Person on the "kindest" or most "hopeful" PC
-- Teleports every round to avoid melee (coal dust clouds appear dramatically)
-- Focuses on hope-driven characters to prove "generosity is weakness"
-- Retreats at 25 HP to Clock Tower for final stand
-- Uses Bitter Monologue to disrupt morale and make players doubt themselves
-- In Clock Tower: Uses environmental hazards (gears, pendulum, bells) aggressively
-
-#### PERSONALITY:
-Bitter, dramatic, genuinely believes Christmas is a temporary lie that people use to feel good before returning to selfishness
-
-**Quotes:**
-- *"Bah! HUMBUG! You think your heroics matter? Christmas changes nothing!"*
-- *"I WAS redeemed once. It didn't last. Nothing does!"*
-- *"Every spirit, every ghost, every kindness... MEANINGLESS!"*
-- *"The List? Oh, I'll use it. I'll show them ALL the futility of their hope!"*
-
-#### SPECIAL MECHANIC - THE LIST:
-- Scrooge wears The Naughty & Nice List on his belt
-- A player can attempt to steal it (DC 16 Sleight of Hand or grapple + DC 15 Athletics to pull it free)
-- If a player uses the Spirit of Christmas Past's Mirror (from Coal Processing Easter Egg), Scrooge must make DC 16 Wis save or be stunned for 1 round as he sees his happiest Christmas memory
-
-#### DEFEAT OPTIONS:
-- **Combat (standard)** - Reduce to 0 HP
-- **Redemption (hard)** - DC 18 Persuasion check, advantage if:
-  - Players found his letters in Coal Processing
-  - Players show him Tiny Tim's card
-  - Players use the Spirit's Mirror
-  - Players invoke the memory of the Ghosts of Christmas
-- **Trick** - Lure him into environmental trap (crusher, clock gears, etc.)
-- **Reindeer Tackle** - If players recruited reindeer, they can charge him (opposed Athletics, reindeer have +8)
-- **Steal The List and Escape** - If players just want to save Christmas without fighting
-
-#### UPON DEFEAT (Combat):
-Scrooge collapses, chains clinking. *"I... I tried to be better once. Why wasn't it enough? Why does the world stay cruel?"* He fades, leaving only The List and his staff.
-
-#### UPON REDEMPTION:
-Scrooge falls to his knees, tears freezing on his cheeks. *"I... I forgot. It's not about changing THEM. It's about staying changed YOURSELF. The Spirits... Tiny Tim... they tried to teach me. Thank you for... reminding me."* The chains dissolve. He helps free the hostages. *"God bless us... every one."*
+**Key Tactical Notes:**
+- Teleports every round to avoid melee
+- Targets hope-driven characters
+- Uses environmental hazards in Clock Tower
+- Can be redeemed with right approach (Persuasion DC 18, advantage with his letters/Tiny Tim's card/Spirit's Mirror)
 
 ## Timeline & Tension
 
-- **8:00 PM** - Heist begins (START)
-- **9:00 PM** - Scrooge takes List, leaves Grand Hall, vault is 50% open
-- **10:00 PM** - Vault fully breached (if players don't stop it), Scrooge arrives at Clock Tower
-- **11:00 PM** - Scrooge sabotaging clock mechanism
-- **11:30 PM** - Bomb arms on sleigh (if not disarmed)
-- **11:45 PM** - Point of no return
+- **8:00 PM** - Heist begins (START) - Villains at work: vault drilling starts (0% open), bomb wiring begins (0% complete)
+- **9:00 PM** - Scrooge takes List and leaves Grand Hall → vault 50% open (3 of 6 locks broken), bomb 50% wired
+- **10:00 PM** - Vault fully breached (if players don't stop it), bomb fully wired (if players don't stop it), Scrooge arrives at Clock Tower
+- **11:00 PM** - Scrooge actively sabotaging clock mechanism
+- **11:30 PM** - Bomb arms automatically on sleigh (if not disarmed)
+- **11:45 PM** - Point of no return - clock nearly destroyed
 - **MIDNIGHT** - Launch time / Bomb detonates / Christmas RUINED
+
+Every 30 minutes of game time, remind players of the clock. Play up the urgency!
 
 Every 30 minutes of game time, remind players of the clock. Play up the urgency!
 
@@ -472,12 +380,16 @@ Every 30 minutes of game time, remind players of the clock. Play up the urgency!
 - *"Christmas is saved! You're on the Nice List forever!"*
 
 ### PARTIAL SUCCESS:
-- Some objectives met, but complications (delayed launch, some vault items stolen, etc.)
+- Some objectives met, but complications:
+  - **Vault breached but Scrooge defeated:** Some magical toys stolen, but Christmas launches on time
+  - **Bomb detonates but List recovered:** Sleigh destroyed, backup sleigh used (2-hour delay, some gifts late)
+  - **Clock damaged but repaired:** Midnight launch delayed 30-60 minutes
 - *"Christmas is saved, but barely. Thank you!"*
 
 ### FAILURE:
-- Bomb detonates, Christmas cancelled
-- Villains escape with List/Vault items
+- Bomb detonates AND no backup plan: Sleigh destroyed, Christmas cancelled
+- Clock destroyed: No midnight synchronization, Christmas cancelled
+- Scrooge escapes with List AND defeats party: Wrong gifts delivered, chaos ensues
 - *"There's always next year... if we can rebuild."*
 
 ## DM Tips
@@ -557,7 +469,7 @@ As players leave, a single gremlin (SPARK) approaches sheepishly, returning thei
 ---
 
 🎄 **THE END** 🎄  
-*"God Bless Us, Every One!"*
+*"Welcome to the party, pal! 🎄🎅"*
 
 ---
 
@@ -748,10 +660,11 @@ This streamlined path hits the best moments while keeping energy high for a 3-ho
 - Major heroic moment when stolen!
 
 ### COAT CHECK STATUS
-**IMPORTANT:** Players do NOT get their real gear back until after defeating Scrooge!
-- Either looted by gremlins (gone)
-- OR guarded by Frostbite (too dangerous)
-- Makeshift weapons keep the fun going!
+**IMPORTANT:** Players do NOT get their real gear back easily!
+- **DM's Choice:** Either looted by gremlins (gone permanently) OR guarded by Frostbite near Grand Hall
+- **Optional Heist:** If players are determined, see [Combat Maps - Grand Hall](combat-maps.md#optional-the-coat-check-heist) for high-risk side mission
+- **Recommended:** Keep players using makeshift weapons for fun and creativity!
+- **After Victory:** Return gear as reward if it wasn't looted
 
 ### REDEMPTION VS COMBAT
 **Redemption Possible:** DC 18 Persuasion

@@ -5,7 +5,7 @@ All 15 rooms with complete tactical layouts, specialist knowledge, and environme
 ## ROOM INDEX
 
 ### MAJOR COMBAT
-- **1 - Grand Hall** | Hostage Situation
+- **1 - Grand Hall** | Hostage Situation (Optional Assault)
 - **3 - Loading Dock** | First Combat
 - **4 - Main Assembly Floor** | Environmental Hazards
 - **6 - Sleigh Hangar** | Bomb Puzzle
@@ -15,9 +15,9 @@ All 15 rooms with complete tactical layouts, specialist knowledge, and environme
 ### MINOR COMBAT
 - **8 - Toy Testing Chamber** | Trap Room
 - **9 - Magical Furnace Room** | Furnace Guards
-- **2 - Maintenance Hallway** | Starting Location
 
 ### SAFE ZONES
+- **2 - Maintenance Hallway** | Starting Location
 - **5 - Gift Wrapping Station** | Equipment & Gear
 - **11 - Paint & Enchantment Workshop** | Magical Supplies
 - **12 - Mrs. Claus's Kitchen** | Ally & Rest
@@ -35,7 +35,7 @@ All 15 rooms with complete tactical layouts, specialist knowledge, and environme
 
 **Size:** 80×60 ft, 30 ft ceiling  
 **Hostages:** Center of room, tables at edges  
-**Enemies:** Frostbite + 2-3 Gingerbread Guards
+**Enemies:** VARIES BY TIME (see below)
 
 ### Cover:
 - Tables (half, flip for full)
@@ -50,17 +50,184 @@ All 15 rooms with complete tactical layouts, specialist knowledge, and environme
 - Slippery punch spills
 
 ### Key Features:
-- Secret chimney from Santa's Office
-- Coat Check with player gear (guarded)
+- Secret chimney from Santa's Office or Mrs. Claus's Kitchen (if short on time)
+- Coat Check with player gear (guarded by enemies)
 - 20-30 hostages clustered center
-
-### Tactical Notes:
-- Stealth entry via chimney
-- Defeat Scrooge first for automatic surrender
-- Can use Puppet Strings or Nutcracker toys strategically
 
 ### Description:
 Massive Christmas grand hall with vaulted ceiling, crystal chandeliers, banquet tables covered in festive food. Large Christmas tree in corner. Frightened workshop employees clustered in center. Polar bear in dark armor guards coat check. Gingerbread guards with candy cane crossbows patrol. Stone fireplace crackles. Stage platform at far end.
+
+---
+
+### COMBAT OPTION 1: EARLY ASSAULT (8:00-9:00 PM)
+**When Scrooge is Present**
+
+**WARNING:** This is an EXTREMELY DIFFICULT encounter! Not recommended unless players are well-equipped or have a clever plan.
+
+#### Enemy Forces:
+- **EBENEZER SCROOGE** (AC 16, HP 75) - The Big Bad himself!
+- **FROSTBITE** (AC 14, HP 30) - Polar bear lieutenant
+- **6 GINGERBREAD GUARDS** (AC 12, HP 15 each) - Candy cane crossbows
+- **2-3 GREMLINS** (AC 12, HP 7 each) - Guarding coat check
+
+#### Enemy Positions:
+- **Scrooge:** Center stage, addressing hostages (50 ft from entrance)
+- **Frostbite:** Near hostages, ready to threaten them (40 ft from entrance)
+- **Gingerbread Guards:** Scattered around perimeter with crossbows
+- **Gremlins:** Coat check area (east entrance)
+
+#### Tactical Situation:
+- **Scrooge has The List on his belt** - if players can steal it NOW, they win a major objective early!
+- Hostages are clustered tight - any AOE risks hitting them
+- Scrooge will use hostages as leverage: *"One step closer and I'll turn them ALL into nutcrackers!"*
+- If combat begins, Scrooge focuses on escaping with The List (his priority)
+- **Victory Condition:** Defeat/capture Scrooge = automatic surrender of all other enemies
+- **Scrooge's Escape:** At 25 HP or if things go badly, he teleports away toward Clock Tower
+
+#### Rewards for Success:
+- Recover The List immediately (one objective complete!)
+- All hostages freed early (including Santa and Mrs. Claus)
+- Player gear from coat check recovered
+- Scrooge forced to flee to Clock Tower early
+
+#### Risks:
+- Hostages may be hurt or used as shields
+- Very difficult fight (75+ HP worth of enemies)
+- If Scrooge escapes, he still has The List
+
+---
+
+### COMBAT OPTION 2: LATER ASSAULT (After 9:00 PM)
+**After Scrooge Leaves - Standard Difficulty**
+
+**This is the recommended approach** - easier fight, less risk to hostages.
+
+#### Enemy Forces:
+- **FROSTBITE** (AC 14, HP 30) - Left in charge
+- **6 GINGERBREAD GUARDS** (AC 12, HP 15 each) - Watching hostages
+- **2 GREMLINS** (AC 12, HP 7 each) - Guarding coat check
+
+#### Enemy Positions:
+- **Frostbite:** Center near hostages, alert but bored (40 ft from entrance)
+- **Gingerbread Guards:** Perimeter patrol & coat check
+- **Gremlins:** Coat check, playing with confiscated items
+
+#### Tactical Situation:
+- Scrooge is gone with The List (must be recovered later)
+- Guards are less organized without Scrooge
+- Frostbite will threaten hostages if cornered: *"Back off or the cookies get it!"*
+- Gremlins flee immediately if combat starts
+- **Victory Condition:** Defeat Frostbite = other guards surrender
+
+#### Tactical Approaches:
+- **Stealth Entry:** Via chimney from Santa's Office (surprise round!)
+- **Distraction:** Create diversion elsewhere, sneak in during chaos
+- **Negotiation:** Frostbite can be reasoned with (DC 18 Persuasion/Intimidation)
+- **Direct Assault:** Fight your way in (standard combat)
+
+#### Rewards for Success:
+- All hostages freed (Santa and Mrs. Claus can help!)
+- Player gear from coat check recovered (optional heist minigame)
+- Santa provides intel about Scrooge's location
+- Mrs. Claus joins party as mobile ally (can provide healing cookies)
+
+---
+
+### GENERAL TACTICAL NOTES (Both Options):
+- Stealth entry via chimney grants surprise round
+- Can use Puppet Strings or Nutcracker toys strategically (if obtained from Vault)
+- Chandeliers can be dropped on enemies (3d6 damage, 10 ft radius)
+- Christmas tree is flammable (creates hazard if ignited)
+- Tables can be flipped for instant full cover
+- Coat Check is adjacent room - see optional heist minigame below
+
+---
+
+### OPTION 3: SCROOGE RETURNS (Improvised Finale)
+**When Time Runs Out or Players Skip Clock Tower**
+
+If players are taking too long, defeating many enemies across the workshop, or bypassing the Clock Tower entirely, **Scrooge can return to Grand Hall for a dramatic final showdown.**
+
+#### When to Use This:
+- Players spent so much time elsewhere that it's past 11:30 PM
+- They've defeated most of his crew (Frostbite, lieutenants, etc.)
+- They're approaching Grand Hall after securing other objectives
+- You want to collapse the finale location to where it all began
+- The Clock Tower approach isn't working for your table's pacing
+
+#### Scrooge's Entrance:
+Scrooge teleports into the Grand Hall in a cloud of coal dust, furious and desperate:
+
+*"ENOUGH! You've destroyed my crew, ruined my plans, and wasted my TIME! If you want your precious hostages and your foolish List, you'll have to go through ME! This ends NOW!"*
+
+#### Modified Arena:
+- Hostages are still present (limiting AOE)
+- All the original hazards and cover still apply
+- Adds dramatic tension - save Christmas AND the hostages
+- Can use chandelier drops, fireplace, Christmas tree as weapons
+
+#### Why This Works:
+- Returns the action to where it started (full circle moment)
+- Hostages add stakes and pressure
+- Familiar environment for players who started here
+- Allows DM to skip Clock Tower if time is short
+- Creates "Die Hard in the lobby" finale energy
+
+#### DM Note:
+This was improvised in actual play and worked beautifully. Players felt the urgency of protecting hostages while fighting the boss. The familiar room became the final battleground, bringing everything full circle. Use this when your session needs to wrap up or when players have taken an unexpected path that skips the Clock Tower.
+
+---
+
+### OPTIONAL: The Coat Check Heist
+
+**Important:** Don't let players recover this gear easily! The makeshift weapons are half the fun. However, if players are really determined and want to attempt a risky heist, you can allow it as a high-stakes side mission.
+
+#### THE SETUP:
+Coat Check is adjacent to Grand Hall (east entrance), currently guarded by:
+- **Frostbite** (AC 14, HP 30) - Alert but focused on the hostages
+- **2 Gremlins** (AC 12, HP 7 each) - Distracted, playing with confiscated items
+
+#### THE HEIST (3-Round Stealth Puzzle):
+
+**Round 1 - Approach (DC 15 Stealth):**
+- Success: Reach coat check door undetected
+- Failure: Frostbite's ears twitch, he's suspicious (+2 DC to next check)
+- Critical Failure: Spotted immediately, combat begins
+
+**Round 2 - Distraction (Group Check DC 13):**
+Players must create a distraction to draw attention away. Options:
+- Throw shiny ornament for gremlins (auto-success if they have one)
+- Make noise elsewhere (Deception/Performance)
+- Use magic creatively (DM discretion)
+
+Success: Frostbite investigates, players have window
+Failure: Frostbite stays put, must try different approach or risk combat
+
+**Round 3 - The Grab (DC 14 Sleight of Hand or Stealth):**
+- Success: Each player grabs ONE signature item (not full loadout!)
+- Partial Success (10-13): Grab items but make noise, must flee immediately
+- Failure: Frostbite roars and attacks, full combat
+
+#### CONSEQUENCES:
+- **Success**: Players each recover ONE signature item (weapon, focus, or tool - their choice)
+- **Detected**: Frostbite + 2 gremlins pursue, raising alarm (attracts 1d4 more gingerbread guards in 2 rounds)
+- **Combat**: If forced to fight Frostbite here, he can call for backup (hostages in danger!)
+
+#### DM NOTES:
+- Make this feel risky and tense, not easy
+- Even on success, they get ONE item each, not everything
+- The makeshift weapons should still be valuable and fun
+- Consider this a "reward for boldness" rather than intended path
+- If they trigger combat, hostages may be threatened as leverage
+- Timing matters: attempting this late (after 10 PM) is easier as Frostbite is less focused
+
+#### Example Signature Items Recovered:
+- Ginger gets "Frostbrand" longsword back
+- Holly gets her thieves' tools
+- Peppermint gets peppermint staff (arcane focus)
+- Jolly gets full tinker's tools kit
+- Northy gets longbow + arrows
+- Cinnamon gets druidic focus pendant
 
 ---
 
@@ -87,13 +254,13 @@ Massive Christmas grand hall with vaulted ceiling, crystal chandeliers, banquet 
 - Service elevator (loud if rushed)
 
 ### Description:
-Narrow service corridor with exposed copper pipes hissing with magical steam. Flickering enchanted bulbs cast dim blue-green light. Metal tool boxes line both walls. Open maintenance locker with tools spilling out. Steam vents create mist. Concrete floor with debris.
+Narrow service corridor with exposed copper pipes hissing with magical steam. Flickering enchanted bulbs cast dim blue-green light. Metal tool boxes line both walls. Open maintenance locker with tools spilling out. Steam vents create mist. Concrete floor with debris. A small grimy window looks out toward the Grand Hall (you can see the hostage situation but can't reach it directly from here). The hallway extends north - a long stretch to the Loading Dock.
 
 ### Specialist Knowledge:
 
-**JOLLY:** You know the steam pipes carry magical energy - cutting one creates a 10 ft fog cloud. The vents lead to multiple floors (you've crawled through them before). The service elevator is quiet if you go slow, but LOUD if rushed. There's usually a Master Key hidden in maintenance areas (check the locker carefully).
+**JOLLY:** You know the steam pipes carry magical energy - cutting one creates a 10 ft fog cloud. The vents lead to multiple floors (you've crawled through them before). The service elevator is quiet if you go slow, but LOUD if rushed. There's usually a Master Key hidden in maintenance areas (check the locker carefully). The small window overlooks Grand Hall but there's no direct access - you'd need to go through other rooms or find another route.
 
-**GINGER:** You know this hallway connects to Loading Dock (north), Assembly Floor (east), and service elevator (west). The vent system bypasses locked doors - tight squeeze but doable. Security cameras are in corners (currently offline from alarm). The service elevator triggers silent alarm if used without key card.
+**GINGER:** You know this hallway is in the back service area. The long corridor north leads to Loading Dock (about 80 feet away through the service passage). Assembly Floor is east. Service elevator is west. There's no direct route to Grand Hall from here - the window lets you see in but you'd have to navigate through Loading Dock or other areas to reach it. The vent system bypasses locked doors - tight squeeze but doable. Security cameras are in corners (currently offline from alarm). The service elevator triggers silent alarm if used without key card.
 
 ### Starting Loot (No Check Required):
 - The Tool Belt: Wrench, pliers, screwdrivers (Thieves' Tools AND Tinker's Tools)
@@ -152,12 +319,12 @@ Large bay doors open to snowy landscape. Colorful wrapped gifts stacked tall cre
 
 ### Enemy Encounter:
 
-**GUMBALL & LICORICE** (AC 12, HP 15 each)
+**GUMBALL & LICORICE** - Gingerbread Thugs (AC 12, HP 15 each)
 - Armed with candy cane clubs (1d6+2)
 - On guard duty, arguing about their cut
 - Dialogue: *"I'm tellin' ya, Licorice, we shoulda been vault crew!"* / *"Shut it, Gumball, or I'll crumb you myself!"*
 
-**SPARK, WRENCH, & GIZMO** (AC 12, HP 7 each)
+**SPARK, WRENCH, & GIZMO** - Gremlins (AC 12, HP 7 each)
 - Chittering and trying to steal shiny ornaments from presents
 - Bite attacks (+4, 1d4+2)
 - Advantage if 2+ gremlins on same target
@@ -281,6 +448,9 @@ Festive chaos of ribbons, bows, and wrapping paper in every pattern. Colorful pa
 ### No Enemies:
 Safe zone for now - use this to regroup and gear up!
 
+### GHOST OF CHRISTMAS PRESENT:
+As players search the room, they notice a wrapped present that wasn't there a moment ago. When opened, it contains useful improvised equipment (DM's choice - perhaps extra glitter bombs, reinforced wrapping tubes, or enchanted ribbon). The scent of evergreen fills the air and faint sleigh bells jingle in the distance.
+
 ### Makeshift Equipment:
 - **Wrapping paper tubes** (quarterstaffs, 1d6 bludgeoning, versatile 1d8)
 - **Ribbon spools** (100 ft of rope-like material, strong enough to bind)
@@ -314,6 +484,8 @@ Wrapping schedule shows special "DO NOT WRAP" items going to the vault tonight -
 
 ### THE BOMB - Logic Puzzle:
 **4 wires visible:** Red, Green, Blue, Gold
+
+**GHOST OF CHRISTMAS YET TO COME:** As players approach the bomb, an icy wind blows through the hangar despite no windows being open. For a brief moment, they glimpse a vision of the sleigh exploding in flames, the workshop in ruins, children waking to empty stockings. The shadow fades, leaving only urgency and determination. The future is not yet written.
 
 **CLUE FOUND EARLIER:** Scrawled note says *"Old Scrooge hates green (reminds him of money he lost), loves gold (all he cares about)"*
 
@@ -402,6 +574,9 @@ Massive vaulted chamber housing Santa's ornate red and gold sleigh with curved r
 
 ### Description:
 Interior of massive magical clock tower. Enormous bronze gears the size of carriages rotating with precision. Giant pendulum swinging through center. Wooden platforms at multiple heights connected by metal ladders. Huge clock mechanism with glowing runes. Ice crystals forming on metal surfaces. Massive bells at top. Clock face shows transparent view of starry night outside. Steam and frost mix in air. Copper pipes and pistons. Blue-white glow from enchanted clockwork. Vertigo-inducing height. Steampunk Christmas aesthetic.
+
+### GHOST OF CHRISTMAS YET TO COME:
+A cloaked shadow briefly appears on the upper platform, pointing at the damaged gears with one skeletal hand - a warning of the danger. When Scrooge arrives for the final confrontation, the shadow appears again, gesturing toward Scrooge and then touching its chest where a heart would be: "He can still be saved..." As time runs short, clock chimes echo louder than they should, and the wind picks up: "Hurry... the future is not yet written..."
 
 ### Specialist Knowledge:
 
@@ -759,6 +934,9 @@ You cautiously enter the kitchen and find Mrs. Claus - alive and free! She's at 
 
 She's already baking enhanced healing cookies, the air filled with cinnamon and magic.
 
+### GHOST OF CHRISTMAS PRESENT:
+As players enter, the oven fire burns extra bright with warm firelight. The scent of evergreen mingles with cinnamon and cocoa. Mrs. Claus looks surprised: *"How strange... I seem to have MORE cookies than I thought I made. It's as if someone blessed my baking..."* Faint sleigh bells can be heard, though no sleigh is near. The spirit of abundance and fellowship fills the room.
+
 ### Mrs. Claus Provides:
 - **Enhanced Healing Cookies** (3 each - heal 2d4+2 HP AND grant 1 hit die OR 1 level-1 spell slot back)
 - **Intel:** *"They're drilling into the vault now. I heard them say they need my wife's voice to open the final lock - Santa's voice is keyed to the security! And that dreadful Scrooge already has The List - I saw it hanging from his belt when I escaped. Without it, no child gets their proper gift. You must get it back!"*
@@ -924,6 +1102,9 @@ This evens the playing field: 8 reindeer + 6 PCs vs 13 enemies
 ### SECRET PASSAGE:
 Behind the bookshelf is a chimney that leads directly to Grand Hall's fireplace (perfect for surprise entry to rescue hostages!)
 
+### GHOST OF CHRISTMAS PAST:
+As players explore the office, a soft golden light emanates from the fireplace. For a brief moment, a ghostly image flickers in the flames - young Scrooge, before his fall, smiling warmly at a Christmas party surrounded by friends. The smell of old parchment and candlewax fills the air, and children's laughter echoes faintly. Then it fades, leaving only the memory of what was lost.
+
 ### Description:
 Cozy private office with large wooden desk covered in Christmas lists. Red velvet chair. Fireplace with stockings. Bookshelves full of record books. Portrait of Santa and Mrs. Claus on wall hiding secret door. Plate of cookies still warm. Magical Christmas glow. Photos of workshop employees on walls. Naughty-nice filing cabinets. Quill and ink. Warm lighting. Wooden beams with festive decorations.
 
@@ -1016,6 +1197,9 @@ Players find:
 - A final letter: *"I tried. I TRIED to be better. But the world doesn't change. People are selfish. Christmas is a LIE - temporary kindness that fades by New Year's. If Christmas has no lasting power, then it deserves to end. Let them see the truth I learned: generosity is weakness, and joy is fleeting. - E.S."*
 - A faded Christmas card from Tiny Tim, signed *"God Bless Us, Every One"*
 - Diary entries showing his slow descent back into bitterness over decades
+
+### GHOST OF CHRISTMAS PAST:
+When players find Tiny Tim's Christmas card, a warm golden glow suddenly illuminates it, as if a gentle hand were holding a candle nearby. The smell of old parchment and candlewax fills the dusty room. A child's voice whispers softly, filled with hope: *"He was kind once... he can be again..."* The light fades, but the card seems warmer to the touch, as if love still dwells within it.
 
 **This Discovery Grants:** In final confrontation, players have advantage on Persuasion checks to redeem Scrooge if they reference these items and show him he's forgotten the TRUE meaning of Christmas - it's not about changing others, but changing yourself.
 

@@ -4,30 +4,90 @@ Quick reference for all enemies with stats, tactics, and locations.
 
 ---
 
-## BOSS: EBENEZER SCROOGE
+## BOSS: EBENEZER SCROOGE (The Spirit of Greed)
 
-**AC:** 16 | **HP:** 75 | **Speed:** 30 ft (can teleport 30 ft in coal dust)  
+**Appearance:** Gaunt man in tattered Victorian coat, heavy spectral chains wrapped around torso, clutches gnarled money-counting staff. The Naughty & Nice List hangs from his belt. Eyes burning with bitter resentment.
+
+**AC:** 16 | **HP:** 75 | **Speed:** 30 ft (can teleport 30 ft in coal dust, bonus action, recharge 5-6)  
 **Proficiency:** +3 | **Str:** 10 | **Dex:** 14 (+2) | **Con:** 14 (+2) | **Int:** 16 | **Wis:** 14 | **Cha:** 18
 
 ### WEAPONS:
-- **Money-Counting Staff:** +6 to hit, 2d6+4 bludgeoning + 1d6 cold
+- **Money-Counting Staff (Multiattack: 2 attacks):** +6 to hit, 2d6+4 bludgeoning + 1d6 cold (greed chills the heart)
 - **Coal Bomb (Legendary Action):** 3d6 fire, 10 ft radius, DC 14 Dex save
 
 ### SPECIAL ABILITIES:
-- **Damage Dampening Chains (Reaction, 2/round):** Reduce incoming damage by 10
+- **Damage Dampening Chains (Reaction, 2/round):** Reduce incoming damage by 10. *"My chains protect me from your futile efforts!"*
 - **Legendary Actions (2 points/round):**
-  - **Move (1):** Teleport 30 ft in coal dust
-  - **Bitter Monologue (1):** Frighten one target within 30 ft (DC 15 Wis save)
+  - **Move (1):** Teleport 30 ft in coal dust (can't be opportunity attacked)
+  - **Bitter Monologue (1):** Frighten one target within 30 ft (DC 15 Wis save, frightened until end of their next turn)
   - **Cast/Attack (2):** Command spell or coal bomb
-- **Legendary Resistance (1/day):** Auto-succeed on failed save
-- **Counterspell (1/day)**
+- **Legendary Resistance (1/day):** Auto-succeed on failed save. *"I didn't survive poverty and ghosts to fall to YOUR tricks!"*
+- **Counterspell (1/day):** "Bah! Humbug to your magic!"
+
+### SPELLCASTING (greed/cold magic):
+- **Command** (at will): "KNEEL!" "FREEZE!" "FLEE!"
+- **Hold Person** (3/day): Chains of spectral gold bind target
+- **Darkness** (2/day): Snuffs out hope and light
+- **Shatter** (2/day): Shatters joy and objects alike
+
+### ENVIRONMENTAL ACTIONS (Clock Tower Only):
+- **Ring the Bell (Recharge 4-6):** Action. Deafens everyone except Scrooge in the tower for 1 round (DC 13 Con save negates)
+- **Shove Into Gears:** +6 Athletics contested check vs target within 5 ft. On success: 2d6 bludgeoning + restrained in gears (DC 15 Str to escape)
 
 ### LOCATION BY TIME:
-- **8:00-9:00 PM:** Grand Hall (with hostages)
-- **9:00-10:00 PM:** Moving through workshop (checking vault operation)
-- **10:00 PM-Midnight:** Clock Tower (final confrontation, sabotaging countdown)
+- **8:00-9:00 PM:** Grand Hall (with hostages, directing crew via radio)
+- **9:00-10:00 PM:** Moving through workshop (checking vault operation, heading to Clock Tower)
+- **10:00 PM-Midnight:** Clock Tower (final confrontation, sabotaging countdown mechanism)
 
-**SPECIAL:** Wears The Naughty & Nice List on his belt (DC 16 Sleight of Hand to steal)
+### TACTICS:
+- Opens with Hold Person on the "kindest" or most "hopeful" PC
+- Teleports every round to avoid melee (coal dust clouds appear dramatically)
+- Focuses on hope-driven characters to prove "generosity is weakness"
+- Retreats at 25 HP to Clock Tower for final stand
+- Uses Bitter Monologue to disrupt morale
+- In Clock Tower: Uses environmental hazards (gears, pendulum, bells) aggressively
+
+### PERSONALITY:
+Bitter, dramatic, genuinely believes Christmas is a temporary lie that people use to feel good before returning to selfishness.
+
+**Classic Quotes:**
+- *"Bah! HUMBUG! You think your heroics matter? Christmas changes nothing!"*
+- *"I WAS redeemed once. It didn't last. Nothing does!"*
+- *"Every spirit, every ghost, every kindness... MEANINGLESS!"*
+- *"The List? Oh, I'll use it. I'll show them ALL the futility of their hope!"*
+
+### SPECIAL MECHANICS:
+- **The List:** Wears The Naughty & Nice List on his belt (DC 16 Sleight of Hand to steal OR grapple + DC 15 Athletics to yank free)
+- **Spirit's Mirror:** If player uses Spirit of Christmas Past's Mirror (from Coal Processing), Scrooge must make DC 16 Wis save or be stunned for 1 round as he sees his happiest Christmas memory
+
+### DEFEAT OPTIONS:
+- **Combat (standard):** Reduce to 0 HP
+- **Redemption (hard):** DC 18 Persuasion check, advantage if:
+  - Players found his letters in Coal Processing
+  - Players show him Tiny Tim's card
+  - Players use the Spirit's Mirror
+  - Players invoke the memory of the Ghosts of Christmas
+- **Trick:** Lure him into environmental trap (crusher, clock gears, etc.)
+- **Reindeer Tackle:** If players recruited reindeer, they can charge him (opposed Athletics, reindeer have +8)
+- **Steal The List and Escape:** If players just want to save Christmas without fighting
+
+### SPIRIT'S MIRROR - FINAL CONFRONTATION:
+If players use the Spirit of Christmas Past's Mirror (from Coal Processing) on Scrooge, all three spirits briefly appear:
+- **Past**: Shows young Scrooge's happiest Christmas
+- **Present**: Shows the joy Scrooge is trying to destroy
+- **Future**: Shows two paths - one where he dies bitter and alone, another where he's redeemed and welcomed
+
+This triple vision grants advantage on Persuasion to redeem Scrooge and reduces DC from 18 to 15.
+
+**Scrooge's Reaction to Spirit Manifestations:** If he senses them: *"YOU! You haunted me before! I won't listen again! Your visions were LIES! People don't change! Nothing LASTS!"* (He's deeply afraid of them - they represent his greatest failure to stay redeemed)
+
+### UPON DEFEAT (Combat):
+Scrooge collapses, chains clinking. *"I... I tried to be better once. Why wasn't it enough? Why does the world stay cruel?"* He fades, leaving only The List and his staff.
+
+### UPON REDEMPTION:
+Scrooge falls to his knees, tears freezing on his cheeks. *"I... I forgot. It's not about changing THEM. It's about staying changed YOURSELF. The Spirits... Tiny Tim... they tried to teach me. Thank you for... reminding me."* The chains dissolve. He helps free the hostages. *"God bless us... every one."*
+
+**Background:** After his redemption, Scrooge eventually grew bitter again watching the world's greed. He believes Christmas is a lie - temporary kindness that fades. He's come to "prove" Christmas doesn't matter by destroying it at its source.
 
 ---
 
