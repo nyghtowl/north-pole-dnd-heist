@@ -25,8 +25,13 @@ Six workshop employees who weren't at the celebration must use makeshift weapons
 
 You have **4 hours until midnight**. The clock is ticking. Christmas is counting on you.
 
+<details>
+<summary><strong>🗺️ Workshop Map (DM/Spoilers)</strong></summary>
+
 ![North Pole Workshop Map](assets/images/north-pole-map.png)
 *Santa's Workshop - Your battlefield for the next 4 hours*
+
+</details>
 
 ## What's Included
 
@@ -62,6 +67,9 @@ This campaign package contains everything you need to run the adventure:
 
 ## A Note for DMs
 
+<details>
+<summary><strong>💡 DM Philosophy & Playtest Tips (DM/Spoilers - Click to Expand)</strong></summary>
+
 **Your players will do unexpected things. That's not a failure of prep — it's the point.**
 
 This adventure is designed as a **toolkit, not a script**. Rooms, encounters, and paths are intentionally loose so you can adapt on the fly. Players from playtests have:
@@ -72,6 +80,8 @@ This adventure is designed as a **toolkit, not a script**. Rooms, encounters, an
 **All valid. All fun.**
 
 The map connections are suggestions. Time pressure is your balancing tool. If a player choice is clever, cinematic, or fun — **make it work**. Collapse or expand paths based on pacing. The ambiguity is intentional, giving you freedom to shape the session to your table.
+
+</details>
 
 ## Quick Start Guide
 
@@ -92,6 +102,9 @@ The map connections are suggestions. Time pressure is your balancing tool. If a 
 5. **Be ready to improvise!** - Things are not always as they seem at the start
 
 ## Campaign Structure
+
+<details>
+<summary><strong>📖 Campaign Structure (DM/Spoilers - Click to Expand)</strong></summary>
 
 ### Act 1: Discovery (8:00-9:00 PM) - 45 min
 - Opening scene and convergence
@@ -114,7 +127,12 @@ The map connections are suggestions. Time pressure is your balancing tool. If a 
 
 **Total Runtime:** 3-4 hours
 
+</details>
+
 ## Play Testing Notes
+
+<details>
+<summary><strong>🎲 Play Testing Notes (DM/Spoilers - Click to Expand)</strong></summary>
 
 This campaign has been run successfully and here's what we learned:
 
@@ -138,6 +156,8 @@ This campaign has been run successfully and here's what we learned:
 - **Path B:** Loading Dock → Kitchen → Vault → Reindeer → Grand Hall Assault → Clock Tower
 - **Path C:** Loading Dock → Gift Wrap → Paint Shop → Sleigh → Clock Tower (speedrun)
 
+</details>
+
 ## Key Features
 
 ### For DMs
@@ -155,6 +175,9 @@ This campaign has been run successfully and here's what we learned:
 - **Heroic Moments** - Reindeer cavalry, legendary toys, dramatic rescues
 
 ## Customization Tips
+
+<details>
+<summary><strong>⚙️ Customization Tips (DM/Spoilers - Click to Expand)</strong></summary>
 
 ### Make It Easier
 - Give players their real equipment after first combat
@@ -174,12 +197,18 @@ This campaign has been run successfully and here's what we learned:
 - **Epic:** Add more legendary toys, bigger set pieces, Scrooge has minions in final fight
 - **Heist Focus:** More stealth checks, alarm systems, guard patrols
 
+</details>
+
 ## Credits
 
 **Created by:** M Warrick / nyghtowl  
 **Campaign Development:** Developed with AI assistance and refined through playtesting
 **System:** D&D 5th Edition (roughly)
 **Inspiration:** Die Hard, Home Alone, A Muppets Christmas Carol
+
+## Useful Resources
+
+- **[Roll20 D&D 5e Compendium](https://roll20.net/compendium/dnd5e/BookIndex)** - Quick reference for spells, rules, conditions, and mechanics during play
 
 ## License
 

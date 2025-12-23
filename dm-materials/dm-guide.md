@@ -7,6 +7,10 @@
 
 This is a fast, cinematic Christmas heist adventure designed for 3-4 hours of play. Players use makeshift weapons, creative tactics, and environmental combat to save Christmas from Scrooge and his corrupted crew. The core loop: gather intel and gear, complete 1-2 major objectives (stop the Vault heist, disarm the Sleigh bomb), then confront Scrooge in a dramatic Clock Tower finale. Use time pressure (4-hour countdown to midnight), Scrooge's radio taunts every 30 minutes, and workshop chaos to keep the pace snappy. Reward creativity with improvised weapons and environmental kills—this is Die Hard meets Home Alone in Santa's workshop!
 
+### Useful DM Resource
+
+**Quick Rule Reference:** [Roll20 D&D 5e Compendium](https://roll20.net/compendium/dnd5e/BookIndex) - Bookmark this for fast spell lookups, condition rules, and mechanics clarification during play.
+
 ### Key DMing Tips:
 - **Time Pressure**: Remind players of the clock every 20-30 minutes of real time
 - **Radio Taunts**: Use Scrooge's walkie-talkie for dramatic villain banter
