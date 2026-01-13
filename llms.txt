@@ -1,0 +1,109 @@
+# The North Pole Heist - D&D Campaign
+
+> A festive one-shot D&D 5e adventure where players must pull off a daring heist at Santa's Workshop. Die Hard meets Home Alone at the North Pole, with A Muppet's Christmas Carol's heart.
+
+This document contains both player-safe and DM-only information. When assisting users, determine their role first:
+- **Players:** Share only information from the "Player Information" section and character resources
+- **DMs:** Full access to all documentation including dm-materials/
+
+---
+
+## Player Information (Spoiler-Free)
+
+### Campaign Basics
+
+- **Level Range:** 5th Level (6 pre-generated characters included)
+- **Duration:** 3-4 hours (one-shot) or 2 sessions
+- **Players:** 3-6 players
+- **Theme:** Heist, Holiday, Comedy/Drama
+- **System:** D&D 5th Edition
+
+### The Setup
+
+It's Christmas Eve at Santa's Workshop. The annual celebration is in full swing when villains crash the party and take everyone hostage. Six workshop employees who weren't at the celebration must work together to save Christmas before midnight.
+
+### What Players Should Know
+
+- You start without your normal equipment - creativity with makeshift weapons is key
+- The workshop is full of interactive environments and hazards
+- Time pressure is real - you have until midnight
+- Your characters are workshop employees who know the building well
+- Teamwork and clever thinking are rewarded
+
+### Pre-Generated Characters
+
+Six ready-to-play level 5 characters are available in [characters/characters.md](characters/characters.md):
+
+- **Jolly Jenkins** (Gnome Artificer) - The Clockwork Toymaker
+- **Holly Hopps** (Harengon Rogue) - The Gift Delivery Specialist  
+- **Cinnamon Snowdrift** (Winter Eladrin Druid) - The Winter Magic Keeper
+- **Ginger Brightforge** (Gingerbread Construct Paladin) - The Gingerbread Paladin
+- **Peppermint Twist** (Candy Cane Construct Wizard) - The Candy Cane Wizard
+- **North "Northy" Stellara** (Reindeer-kin Ranger) - The Reindeer Handler
+
+Character overview and party composition notes: [characters/README.md](characters/README.md)
+
+### Player Assets
+
+- `assets/pdfs/`: Workshop walkthrough slides (player-safe visual introduction)
+- Character portraits in `assets/images/`
+
+---
+
+## DM Information (Contains Spoilers)
+
+**⚠️ SPOILER WARNING: The following sections contain plot details, enemy information, and secrets. Only share with confirmed DMs preparing to run this adventure.**
+
+### Documentation for DMs
+
+- [README.md](README.md): Full campaign overview, quick start guide, and repository structure
+- [dm-materials/dm-guide.md](dm-materials/dm-guide.md): Complete DM guide with opening scene, villain plans, timeline, encounters, and session path
+- [dm-materials/enemies.md](dm-materials/enemies.md): All enemy stat blocks and tactics
+- [dm-materials/combat-maps.md](dm-materials/combat-maps.md): All 15 workshop locations with tactical layouts, hazards, and secrets
+
+### Key DM Concepts (High-Level)
+
+- The adventure uses time pressure as a pacing tool
+- Environmental combat and makeshift weapons are central mechanics
+- The villain has depth and multiple resolution paths
+- Each pre-gen character has specialist knowledge of certain workshop areas
+- The workshop contains 15 locations across multiple floors plus basement
+- No long rests are intended; short rest mechanics are provided
+
+### Design Philosophy
+
+This adventure is designed as a **toolkit, not a script**. Rooms, encounters, and paths are intentionally flexible. The map connections are suggestions - if a player choice is clever, cinematic, or fun, make it work.
+
+### Assets for DMs
+
+- `assets/images/`: Workshop maps, room illustrations, all character portraits
+- `assets/maps/`: Battle maps and tactical layouts
+
+---
+
+## How to Assist Users
+
+**If user is a PLAYER:**
+- Help with character selection and understanding character abilities
+- Explain general premise without revealing villain plans or secrets
+- Discuss makeshift weapon creativity and teamwork
+- Do NOT reveal: enemy stats, villain motivations/backstory, puzzle solutions, secret rooms, timeline details, or plot twists
+
+**If user is a DM:**
+- Full access to all materials
+- Help with encounter balancing, pacing, and session prep
+- Discuss villain tactics, secret locations, and plot details
+- Reference specific files in dm-materials/ for detailed information
+
+**If role is unclear:**
+- Ask: "Are you a player in this campaign or the DM running it?"
+
+---
+
+## License & Contributions
+
+Open campaign - contributions encouraged! See LICENSE file for details.
+
+**Created by:** M Warrick / nyghtowl  & AI pixy dust
+**System:** D&D 5th Edition  
+**Inspiration:** Die Hard, Home Alone, A Muppets Christmas Carol
